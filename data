@@ -1,0 +1,16 @@
+cd sudo mount -t cifs -o user=root,password= //192.168.1.1/drive /media
+
+# three hours
+raspistill -o 2016_06_13_%04d.jpg -t 10800000 -tl 30000
+
+raspistill -o 2016_06_14_%04d.jpg -t 10800000 -tl 10000 -h 1920 -w1080
+
+raspistill -o 2016_06_14_test.jpg -h 1920 -w1080
+
+
+avconv -y -r 12 -i 2016_06_13_%04d.jpg -vcodec libx264 -q:v 3 -an 2016_06_13.mp4
+
+
+C:\Users\Matt\Downloads\avconv\win64\usr\bin\avconv -y -r 12 -i 2016_06_17_%04d.jpg -vcodec libx264 -q:v 3 -an 2016_06_17.mp4
+
+robocopy "Z:\pi\Seagate Backup Plus Drive\timelapse" C:\Users\Matt\Documents\docs\projects\timelapse\timelapse2 2016_06_17*.jpg

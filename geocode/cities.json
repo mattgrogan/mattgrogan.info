@@ -1,0 +1,860 @@
+{
+    "Acadia National Park, ME": {
+        "city": "Acadia National Park, ME",
+        "formatted_address": "Acadia National Park, Mt Desert, ME 04660, USA",
+        "latitude": 44.3385559,
+        "longitude": -68.2733346
+    },
+    "Albany, NY": {
+        "city": "Albany, NY",
+        "formatted_address": "Albany, NY, USA",
+        "latitude": 42.6525793,
+        "longitude": -73.7562317
+    },
+    "Albuquerque, NM": {
+        "city": "Albuquerque, NM",
+        "formatted_address": "Albuquerque, NM, USA",
+        "latitude": 35.0853336,
+        "longitude": -106.6055534
+    },
+    "Alexandria, VA": {
+        "city": "Alexandria, VA",
+        "formatted_address": "Alexandria, VA, USA",
+        "latitude": 38.8048355,
+        "longitude": -77.0469214
+    },
+    "Amsterdam, Netherlands": {
+        "city": "Amsterdam, Netherlands",
+        "formatted_address": "Amsterdam, Netherlands",
+        "latitude": 52.3702157,
+        "longitude": 4.895167900000001
+    },
+    "Anchorage, AK": {
+        "city": "Anchorage, AK",
+        "formatted_address": "Anchorage, AK, USA",
+        "latitude": 61.2180556,
+        "longitude": -149.9002778
+    },
+    "Antwerp, Belgium": {
+        "city": "Antwerp, Belgium",
+        "formatted_address": "Antwerp, Belgium",
+        "latitude": 51.2194475,
+        "longitude": 4.4024643
+    },
+    "Arcadia, CA": {
+        "city": "Arcadia, CA",
+        "formatted_address": "Arcadia, CA, USA",
+        "latitude": 34.1397292,
+        "longitude": -118.0353449
+    },
+    "Arecibo, Puerto Rico": {
+        "city": "Arecibo, Puerto Rico",
+        "formatted_address": "Arecibo, Arecibo, Puerto Rico",
+        "latitude": 18.4596051,
+        "longitude": -66.74417249999999
+    },
+    "Astoria, NY": {
+        "city": "Astoria, NY",
+        "formatted_address": "Astoria, Queens, NY, USA",
+        "latitude": 40.7643574,
+        "longitude": -73.92346189999999
+    },
+    "Astoria, OR": {
+        "city": "Astoria, OR",
+        "formatted_address": "Astoria, OR 97103, USA",
+        "latitude": 46.1878841,
+        "longitude": -123.8312534
+    },
+    "Ayia Napa, Cyprus": {
+        "city": "Ayia Napa, Cyprus",
+        "formatted_address": "Ayia Napa, Cyprus",
+        "latitude": 34.9922836,
+        "longitude": 34.0140113
+    },
+    "Bangkok, Thailand": {
+        "city": "Bangkok, Thailand",
+        "formatted_address": "Bangkok, Thailand",
+        "latitude": 13.7563309,
+        "longitude": 100.5017651
+    },
+    "Bar Harbor, ME": {
+        "city": "Bar Harbor, ME",
+        "formatted_address": "Bar Harbor, ME, USA",
+        "latitude": 44.3876119,
+        "longitude": -68.2039123
+    },
+    "Barcelona, Spain": {
+        "city": "Barcelona, Spain",
+        "formatted_address": "Barcelona, Barcelona, Spain",
+        "latitude": 41.3850639,
+        "longitude": 2.1734035
+    },
+    "Belfast, Northern Ireland": {
+        "city": "Belfast, Northern Ireland",
+        "formatted_address": "Belfast, Belfast, Belfast, UK",
+        "latitude": 54.59728500000001,
+        "longitude": -5.93012
+    },
+    "Berwick, ME": {
+        "city": "Berwick, ME",
+        "formatted_address": "Berwick, ME, USA",
+        "latitude": 43.26831989999999,
+        "longitude": -70.8635506
+    },
+    "Bocas del Toro, Panama": {
+        "city": "Bocas del Toro, Panama",
+        "formatted_address": "Bocas del Toro Province, Panama",
+        "latitude": 9.4047951,
+        "longitude": -82.269193
+    },
+    "Boston, MA": {
+        "city": "Boston, MA",
+        "formatted_address": "Boston, MA, USA",
+        "latitude": 42.3600825,
+        "longitude": -71.0588801
+    },
+    "Bran, Romania": {
+        "city": "Bran, Romania",
+        "formatted_address": "Bran 507025, Romania",
+        "latitude": 45.51919179999999,
+        "longitude": 25.3696831
+    },
+    "Brasov, Romania": {
+        "city": "Brasov, Romania",
+        "formatted_address": "Bra\u0219ov, Romania",
+        "latitude": 45.6579755,
+        "longitude": 25.6011977
+    },
+    "Brussels, Belgium": {
+        "city": "Brussels, Belgium",
+        "formatted_address": "Brussels, Belgium",
+        "latitude": 50.8503396,
+        "longitude": 4.3517103
+    },
+    "Bucharest, Romania": {
+        "city": "Bucharest, Romania",
+        "formatted_address": "Bucharest, Romania",
+        "latitude": 44.4267674,
+        "longitude": 26.1025384
+    },
+    "Cahuita, Costa Rica": {
+        "city": "Cahuita, Costa Rica",
+        "formatted_address": "Cahuita, Costa Rica",
+        "latitude": 9.7347856,
+        "longitude": -82.84521459999999
+    },
+    "Carlsbad Caverns, NM": {
+        "city": "Carlsbad Caverns, NM",
+        "formatted_address": "Carlsbad Caverns National Park, New Mexico 88220, USA",
+        "latitude": 32.1478553,
+        "longitude": -104.5567138
+    },
+    "Carlsbad, CA": {
+        "city": "Carlsbad, CA",
+        "formatted_address": "Carlsbad, CA, USA",
+        "latitude": 33.1580933,
+        "longitude": -117.3505939
+    },
+    "Castine, ME": {
+        "city": "Castine, ME",
+        "formatted_address": "Castine, ME, USA",
+        "latitude": 44.3888609,
+        "longitude": -68.7989582
+    },
+    "Chesterton, IN": {
+        "city": "Chesterton, IN",
+        "formatted_address": "Chesterton, IN 46304, USA",
+        "latitude": 41.6105937,
+        "longitude": -87.06419919999999
+    },
+    "Chicago, IL": {
+        "city": "Chicago, IL",
+        "formatted_address": "Chicago, IL, USA",
+        "latitude": 41.8781136,
+        "longitude": -87.6297982
+    },
+    "Chichen Itza, Mexico": {
+        "city": "Chichen Itza, Mexico",
+        "formatted_address": "Chich\u00e9n Itz\u00e1, Yuc., Mexico",
+        "latitude": 20.6783333,
+        "longitude": -88.5688888
+    },
+    "Cincinnati, OH": {
+        "city": "Cincinnati, OH",
+        "formatted_address": "Cincinnati, OH, USA",
+        "latitude": 39.1031182,
+        "longitude": -84.5120196
+    },
+    "Concord, NH": {
+        "city": "Concord, NH",
+        "formatted_address": "Concord, NH, USA",
+        "latitude": 43.2081366,
+        "longitude": -71.5375718
+    },
+    "Cuba, NM": {
+        "city": "Cuba, NM",
+        "formatted_address": "Cuba, NM 87013, USA",
+        "latitude": 36.0222403,
+        "longitude": -106.9583721
+    },
+    "Culebra, Puerto Rico": {
+        "city": "Culebra, Puerto Rico",
+        "formatted_address": "Culebra, Culebra, Puerto Rico",
+        "latitude": 18.3030119,
+        "longitude": -65.3009914
+    },
+    "Denali National Park, AK": {
+        "city": "Denali National Park, AK",
+        "formatted_address": "Denali National Park and Preserve, AK, USA",
+        "latitude": 63.11480289999999,
+        "longitude": -151.192595
+    },
+    "Driggs, ID": {
+        "city": "Driggs, ID",
+        "formatted_address": "Driggs, ID, USA",
+        "latitude": 43.7232522,
+        "longitude": -111.1113326
+    },
+    "Dublin, Ireland": {
+        "city": "Dublin, Ireland",
+        "formatted_address": "Dublin, Ireland",
+        "latitude": 53.3498053,
+        "longitude": -6.2603097
+    },
+    "Eliott, ME": {
+        "city": "Eliott, ME",
+        "formatted_address": "Eliot, ME 03903, USA",
+        "latitude": 43.1531427,
+        "longitude": -70.8000544
+    },
+    "Everglades National Park, FL": {
+        "city": "Everglades National Park, FL",
+        "formatted_address": "Everglades National Park, Florida, USA",
+        "latitude": 25.2866155,
+        "longitude": -80.89865089999999
+    },
+    "Fire Island, NY": {
+        "city": "Fire Island, NY",
+        "formatted_address": "Fire Island, NY, USA",
+        "latitude": 40.64759970000001,
+        "longitude": -73.1459474
+    },
+    "Fort Lauderdale, FL": {
+        "city": "Fort Lauderdale, FL",
+        "formatted_address": "Fort Lauderdale, FL, USA",
+        "latitude": 26.1224386,
+        "longitude": -80.13731740000001
+    },
+    "Foshan, China": {
+        "city": "Foshan, China",
+        "formatted_address": "Foshan, Guangdong, China",
+        "latitude": 23.021479,
+        "longitude": 113.121436
+    },
+    "Gandria, Switzerland": {
+        "city": "Gandria, Switzerland",
+        "formatted_address": "Gandria, 6978 Lugano, Switzerland",
+        "latitude": 46.0055821,
+        "longitude": 9.0028604
+    },
+    "Gardnier, MT": {
+        "city": "Gardnier, MT",
+        "formatted_address": "Gardiner, MT 59030, USA",
+        "latitude": 45.0318802,
+        "longitude": -110.7057663
+    },
+    "Gettysburg, PA": {
+        "city": "Gettysburg, PA",
+        "formatted_address": "Gettysburg, PA 17325, USA",
+        "latitude": 39.8309293,
+        "longitude": -77.2310955
+    },
+    "Geysir, Iceland": {
+        "city": "Geysir, Iceland",
+        "formatted_address": "Geysir, Iceland",
+        "latitude": 64.31277779999999,
+        "longitude": -20.3008333
+    },
+    "Girdwood, AK": {
+        "city": "Girdwood, AK",
+        "formatted_address": "Girdwood, Anchorage, AK, USA",
+        "latitude": 60.95432469999999,
+        "longitude": -149.1598983
+    },
+    "Glacier National Park, MT": {
+        "city": "Glacier National Park, MT",
+        "formatted_address": "Glacier National Park, Montana 59936, USA",
+        "latitude": 48.7596128,
+        "longitude": -113.7870225
+    },
+    "Gorham, NH": {
+        "city": "Gorham, NH",
+        "formatted_address": "Gorham, NH 03581, USA",
+        "latitude": 44.3877921,
+        "longitude": -71.1731236
+    },
+    "Granada, Nicaragua": {
+        "city": "Granada, Nicaragua",
+        "formatted_address": "Granada, Nicaragua",
+        "latitude": 11.9344073,
+        "longitude": -85.9560005
+    },
+    "Grand Canyon National Park, AZ": {
+        "city": "Grand Canyon National Park, AZ",
+        "formatted_address": "Grand Canyon National Park, Arizona 86052, USA",
+        "latitude": 36.1069652,
+        "longitude": -112.1129972
+    },
+    "Grand Teton National Park, WY": {
+        "city": "Grand Teton National Park, WY",
+        "formatted_address": "Grand Teton National Park, Wyoming 83012, USA",
+        "latitude": 43.7904282,
+        "longitude": -110.6817627
+    },
+    "Halifax, Nova Scotia": {
+        "city": "Halifax, Nova Scotia",
+        "formatted_address": "Halifax, NS, Canada",
+        "latitude": 44.6488625,
+        "longitude": -63.5753196
+    },
+    "Hong Kong, HK": {
+        "city": "Hong Kong, HK",
+        "formatted_address": "Hong Kong, Hong Kong",
+        "latitude": 22.2783151,
+        "longitude": 114.174695
+    },
+    "Indianapolis, IN": {
+        "city": "Indianapolis, IN",
+        "formatted_address": "Indianapolis, IN, USA",
+        "latitude": 39.768403,
+        "longitude": -86.158068
+    },
+    "Island Park, ID": {
+        "city": "Island Park, ID",
+        "formatted_address": "Island Park, ID, USA",
+        "latitude": 44.4243637,
+        "longitude": -111.3710645
+    },
+    "Istanbul, Turkey": {
+        "city": "Istanbul, Turkey",
+        "formatted_address": "Istanbul, \u0130stanbul, Turkey",
+        "latitude": 41.0082376,
+        "longitude": 28.9783589
+    },
+    "Jackson, WY": {
+        "city": "Jackson, WY",
+        "formatted_address": "Jackson, WY, USA",
+        "latitude": 43.4799291,
+        "longitude": -110.7624282
+    },
+    "Jacksonville, FL": {
+        "city": "Jacksonville, FL",
+        "formatted_address": "Jacksonville, FL, USA",
+        "latitude": 30.3321838,
+        "longitude": -81.65565099999999
+    },
+    "Johannesburg, South Africa": {
+        "city": "Johannesburg, South Africa",
+        "formatted_address": "Johannesburg, South Africa",
+        "latitude": -26.2041028,
+        "longitude": 28.0473051
+    },
+    "Joshua Tree National Park, CA": {
+        "city": "Joshua Tree National Park, CA",
+        "formatted_address": "Joshua Tree National Park, California, USA",
+        "latitude": 33.873415,
+        "longitude": -115.9009923
+    },
+    "Kalispell, MT": {
+        "city": "Kalispell, MT",
+        "formatted_address": "Kalispell, MT 59901, USA",
+        "latitude": 48.1919889,
+        "longitude": -114.3168131
+    },
+    "Keene, NH": {
+        "city": "Keene, NH",
+        "formatted_address": "Keene, NH, USA",
+        "latitude": 42.933692,
+        "longitude": -72.2781409
+    },
+    "Keflavik, Iceland": {
+        "city": "Keflavik, Iceland",
+        "formatted_address": "Reykjanesb\u00e6r, Iceland",
+        "latitude": 63.9997549,
+        "longitude": -22.5582716
+    },
+    "Kenai, AK": {
+        "city": "Kenai, AK",
+        "formatted_address": "Kenai, AK, USA",
+        "latitude": 60.55444439999999,
+        "longitude": -151.2583333
+    },
+    "Kennebunkport, ME": {
+        "city": "Kennebunkport, ME",
+        "formatted_address": "Kennebunkport, ME 04046, USA",
+        "latitude": 43.3617327,
+        "longitude": -70.4767274
+    },
+    "Kennicott, AK": {
+        "city": "Kennicott, AK",
+        "formatted_address": "Kennicott, McCarthy, AK 99566, USA",
+        "latitude": 61.48638889999999,
+        "longitude": -142.8863888
+    },
+    "Kittery, ME": {
+        "city": "Kittery, ME",
+        "formatted_address": "Kittery, ME, USA",
+        "latitude": 43.0881256,
+        "longitude": -70.73613700000001
+    },
+    "Las Vegas, NV": {
+        "city": "Las Vegas, NV",
+        "formatted_address": "Las Vegas, NV, USA",
+        "latitude": 36.1699412,
+        "longitude": -115.1398296
+    },
+    "Lille, France": {
+        "city": "Lille, France",
+        "formatted_address": "Lille, France",
+        "latitude": 50.62925,
+        "longitude": 3.057256
+    },
+    "London, England": {
+        "city": "London, England",
+        "formatted_address": "London, UK",
+        "latitude": 51.5073509,
+        "longitude": -0.1277583
+    },
+    "Los Angeles, CA": {
+        "city": "Los Angeles, CA",
+        "formatted_address": "Los Angeles, CA, USA",
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+    },
+    "Lugano, Switzerland": {
+        "city": "Lugano, Switzerland",
+        "formatted_address": "Lugano, Switzerland",
+        "latitude": 46.0036778,
+        "longitude": 8.951051999999999
+    },
+    "Luxembourg, Luxembourg": {
+        "city": "Luxembourg, Luxembourg",
+        "formatted_address": "Luxembourg City, Luxembourg",
+        "latitude": 49.61162100000001,
+        "longitude": 6.1319346
+    },
+    "Managua, Nicaragua": {
+        "city": "Managua, Nicaragua",
+        "formatted_address": "Managua, Nicaragua",
+        "latitude": 12.1149926,
+        "longitude": -86.2361744
+    },
+    "Manchester, NH": {
+        "city": "Manchester, NH",
+        "formatted_address": "Manchester, NH, USA",
+        "latitude": 42.9956397,
+        "longitude": -71.4547891
+    },
+    "Manuel Antonio, Costa Rica": {
+        "city": "Manuel Antonio, Costa Rica",
+        "formatted_address": "Manuel Antonio, Quepos, Costa Rica",
+        "latitude": 9.4092624,
+        "longitude": -84.1553848
+    },
+    "McCarthy, AK": {
+        "city": "McCarthy, AK",
+        "formatted_address": "McCarthy, AK 99566, USA",
+        "latitude": 61.4333333,
+        "longitude": -142.9216667
+    },
+    "Mexico City, Mexico": {
+        "city": "Mexico City, Mexico",
+        "formatted_address": "Mexico City, Mexico City, Mexico",
+        "latitude": 19.4326077,
+        "longitude": -99.133208
+    },
+    "Miami Beach, FL": {
+        "city": "Miami Beach, FL",
+        "formatted_address": "Miami Beach, FL, USA",
+        "latitude": 25.790654,
+        "longitude": -80.1300455
+    },
+    "Miami, FL": {
+        "city": "Miami, FL",
+        "formatted_address": "Miami, FL, USA",
+        "latitude": 25.7616798,
+        "longitude": -80.1917902
+    },
+    "Milan, Italy": {
+        "city": "Milan, Italy",
+        "formatted_address": "Milan, Italy",
+        "latitude": 45.4654219,
+        "longitude": 9.1859243
+    },
+    "Milford, NH": {
+        "city": "Milford, NH",
+        "formatted_address": "Milford, NH 03055, USA",
+        "latitude": 42.8353619,
+        "longitude": -71.6489836
+    },
+    "Montreal, Canada": {
+        "city": "Montreal, Canada",
+        "formatted_address": "Montreal, QC, Canada",
+        "latitude": 45.5016889,
+        "longitude": -73.567256
+    },
+    "Mount Jefferson, NH": {
+        "city": "Mount Jefferson, NH",
+        "formatted_address": "Mt Jefferson, Thompson and Meserve's Purchase, NH 03593, USA",
+        "latitude": 44.30450829999999,
+        "longitude": -71.3175761
+    },
+    "Mount Washington, NH": {
+        "city": "Mount Washington, NH",
+        "formatted_address": "Mount Washington, Sargent's Purchase, NH 03846, USA",
+        "latitude": 44.27058539999999,
+        "longitude": -71.3032723
+    },
+    "Mumbai, India": {
+        "city": "Mumbai, India",
+        "formatted_address": "Mumbai, Maharashtra, India",
+        "latitude": 19.0759837,
+        "longitude": 72.8776559
+    },
+    "New Orleans, LA": {
+        "city": "New Orleans, LA",
+        "formatted_address": "New Orleans, LA, USA",
+        "latitude": 29.95106579999999,
+        "longitude": -90.0715323
+    },
+    "New York, NY": {
+        "city": "New York, NY",
+        "formatted_address": "New York, NY, USA",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413
+    },
+    "Nicosia, Cyprus": {
+        "city": "Nicosia, Cyprus",
+        "formatted_address": "Nicosia, Cyprus",
+        "latitude": 35.1855659,
+        "longitude": 33.38227639999999
+    },
+    "Nome, AK": {
+        "city": "Nome, AK",
+        "formatted_address": "Nome, AK, USA",
+        "latitude": 64.5011111,
+        "longitude": -165.4063889
+    },
+    "North Conway, NH": {
+        "city": "North Conway, NH",
+        "formatted_address": "North Conway, Conway, NH, USA",
+        "latitude": 44.0536805,
+        "longitude": -71.1284041
+    },
+    "Ogunquit, ME": {
+        "city": "Ogunquit, ME",
+        "formatted_address": "Ogunquit, ME, USA",
+        "latitude": 43.2468352,
+        "longitude": -70.5986223
+    },
+    "Old Orchard Beach, ME": {
+        "city": "Old Orchard Beach, ME",
+        "formatted_address": "Old Orchard Beach, ME, USA",
+        "latitude": 43.5177659,
+        "longitude": -70.3772911
+    },
+    "Orlando, FL": {
+        "city": "Orlando, FL",
+        "formatted_address": "Orlando, FL, USA",
+        "latitude": 28.5383355,
+        "longitude": -81.3792365
+    },
+    "Ossipee, NH": {
+        "city": "Ossipee, NH",
+        "formatted_address": "Ossipee, NH, USA",
+        "latitude": 43.6853516,
+        "longitude": -71.1166556
+    },
+    "Palm Beach, FL": {
+        "city": "Palm Beach, FL",
+        "formatted_address": "Palm Beach, FL, USA",
+        "latitude": 26.7056206,
+        "longitude": -80.0364297
+    },
+    "Palm Coast, FL": {
+        "city": "Palm Coast, FL",
+        "formatted_address": "Palm Coast, FL, USA",
+        "latitude": 29.5844524,
+        "longitude": -81.20786989999999
+    },
+    "Panama City, Panama": {
+        "city": "Panama City, Panama",
+        "formatted_address": "Panama City, Panama",
+        "latitude": 9.1011785,
+        "longitude": -79.4028639
+    },
+    "Paphos, Cyprus": {
+        "city": "Paphos, Cyprus",
+        "formatted_address": "Paphos, Cyprus",
+        "latitude": 34.7720133,
+        "longitude": 32.4297369
+    },
+    "Philadelphia, PA": {
+        "city": "Philadelphia, PA",
+        "formatted_address": "Philadelphia, PA, USA",
+        "latitude": 39.9525839,
+        "longitude": -75.1652215
+    },
+    "Pilanesberg, South Africa": {
+        "city": "Pilanesberg, South Africa",
+        "formatted_address": "Pilanesberg, Pilanesberg National Park, South Africa",
+        "latitude": -25.240278,
+        "longitude": 27.075833
+    },
+    "Pine Mountain, NH": {
+        "city": "Pine Mountain, NH",
+        "formatted_address": "Pine Mountain, Gorham, NH 03581, USA",
+        "latitude": 44.3658953,
+        "longitude": -71.2147976
+    },
+    "Playa del Carmen, Mexico": {
+        "city": "Playa del Carmen, Mexico",
+        "formatted_address": "Playa del Carmen, Quintana Roo, Mexico",
+        "latitude": 20.6295586,
+        "longitude": -87.0738851
+    },
+    "Polis, Cyprus": {
+        "city": "Polis, Cyprus",
+        "formatted_address": "Poli Crysochous, Cyprus",
+        "latitude": 35.0321725,
+        "longitude": 32.4184108
+    },
+    "Popoyo, Nicaragua": {
+        "city": "Popoyo, Nicaragua",
+        "formatted_address": "Popoyo, Nicaragua",
+        "latitude": 11.4700989,
+        "longitude": -86.12492449999999
+    },
+    "Portland, ME": {
+        "city": "Portland, ME",
+        "formatted_address": "Portland, ME, USA",
+        "latitude": 43.66147100000001,
+        "longitude": -70.2553259
+    },
+    "Portland, OR": {
+        "city": "Portland, OR",
+        "formatted_address": "Portland, OR, USA",
+        "latitude": 45.5230622,
+        "longitude": -122.6764816
+    },
+    "Portsmouth, England": {
+        "city": "Portsmouth, England",
+        "formatted_address": "Portsmouth, Portsmouth, UK",
+        "latitude": 50.8197675,
+        "longitude": -1.0879769
+    },
+    "Poughkeepsie, NY": {
+        "city": "Poughkeepsie, NY",
+        "formatted_address": "Poughkeepsie, NY, USA",
+        "latitude": 41.7003713,
+        "longitude": -73.9209701
+    },
+    "Puerto Vallarta, Mexico": {
+        "city": "Puerto Vallarta, Mexico",
+        "formatted_address": "Puerto Vallarta, Jalisco, Mexico",
+        "latitude": 20.653407,
+        "longitude": -105.2253316
+    },
+    "Reykjavik, Iceland": {
+        "city": "Reykjavik, Iceland",
+        "formatted_address": "Reykjav\u00edk, Iceland",
+        "latitude": 64.12652059999999,
+        "longitude": -21.8174393
+    },
+    "Rosarito, Mexico": {
+        "city": "Rosarito, Mexico",
+        "formatted_address": "Rosarito, Baja California, Mexico",
+        "latitude": 32.3661011,
+        "longitude": -117.0617553
+    },
+    "Salem, MA": {
+        "city": "Salem, MA",
+        "formatted_address": "Salem, MA, USA",
+        "latitude": 42.51954,
+        "longitude": -70.8967155
+    },
+    "San Diego, CA": {
+        "city": "San Diego, CA",
+        "formatted_address": "San Diego, CA, USA",
+        "latitude": 32.715738,
+        "longitude": -117.1610838
+    },
+    "San Francisco, CA": {
+        "city": "San Francisco, CA",
+        "formatted_address": "San Francisco, CA, USA",
+        "latitude": 37.7749295,
+        "longitude": -122.4194155
+    },
+    "San Jose, Costa Rica": {
+        "city": "San Jose, Costa Rica",
+        "formatted_address": "San Jos\u00e9, Costa Rica",
+        "latitude": 9.9280694,
+        "longitude": -84.0907246
+    },
+    "San Juan, Puerto Rico": {
+        "city": "San Juan, Puerto Rico",
+        "formatted_address": "San Juan, San Juan, Puerto Rico",
+        "latitude": 18.4655394,
+        "longitude": -66.1057355
+    },
+    "Santa Fe, NM": {
+        "city": "Santa Fe, NM",
+        "formatted_address": "Santa Fe, NM, USA",
+        "latitude": 35.6869752,
+        "longitude": -105.937799
+    },
+    "Savannah, GA": {
+        "city": "Savannah, GA",
+        "formatted_address": "Savannah, GA, USA",
+        "latitude": 32.0835407,
+        "longitude": -81.09983419999999
+    },
+    "Seattle, WA": {
+        "city": "Seattle, WA",
+        "formatted_address": "Seattle, WA, USA",
+        "latitude": 47.6062095,
+        "longitude": -122.3320708
+    },
+    "Sibiu, Romania": {
+        "city": "Sibiu, Romania",
+        "formatted_address": "Sibiu, Romania",
+        "latitude": 45.7983273,
+        "longitude": 24.1255826
+    },
+    "Sighisoara, Romania": {
+        "city": "Sighisoara, Romania",
+        "formatted_address": "Sighi\u0219oara, Romania",
+        "latitude": 46.2197025,
+        "longitude": 24.7963878
+    },
+    "Singapore": {
+        "city": "Singapore",
+        "formatted_address": "Singapore",
+        "latitude": 1.352083,
+        "longitude": 103.819836
+    },
+    "Somersworth, NH": {
+        "city": "Somersworth, NH",
+        "formatted_address": "Somersworth, NH, USA",
+        "latitude": 43.2617503,
+        "longitude": -70.8653372
+    },
+    "Teller, AK": {
+        "city": "Teller, AK",
+        "formatted_address": "Teller, AK, USA",
+        "latitude": 65.26361109999999,
+        "longitude": -166.3608333
+    },
+    "Teotihuacan, Mexico": {
+        "city": "Teotihuacan, Mexico",
+        "formatted_address": "Teotihuac\u00e1n de Arista, M\u00e9x., Mexico",
+        "latitude": 19.685267,
+        "longitude": -98.8721186
+    },
+    "Thingvellir, Iceland": {
+        "city": "Thingvellir, Iceland",
+        "formatted_address": "Thingvellir, Iceland",
+        "latitude": 64.257271,
+        "longitude": -21.144291
+    },
+    "Thompson Lake, ME": {
+        "city": "Thompson Lake, ME",
+        "formatted_address": "Thompson Lake, Maine, USA",
+        "latitude": 44.0708487,
+        "longitude": -70.493554
+    },
+    "Tijuana, Mexico": {
+        "city": "Tijuana, Mexico",
+        "formatted_address": "Tijuana, Baja California, Mexico",
+        "latitude": 32.5149469,
+        "longitude": -117.0382471
+    },
+    "Valdez, AK": {
+        "city": "Valdez, AK",
+        "formatted_address": "Valdez, AK, USA",
+        "latitude": 61.13083330000001,
+        "longitude": -146.3483333
+    },
+    "Washington DC": {
+        "city": "Washington DC",
+        "formatted_address": "Washington, DC, USA",
+        "latitude": 38.9071923,
+        "longitude": -77.0368707
+    },
+    "Wells, ME": {
+        "city": "Wells, ME",
+        "formatted_address": "Wells, ME 04090, USA",
+        "latitude": 43.3222329,
+        "longitude": -70.5805209
+    },
+    "West Glacier, MT": {
+        "city": "West Glacier, MT",
+        "formatted_address": "West Glacier, MT 59936, USA",
+        "latitude": 48.4949755,
+        "longitude": -113.9810756
+    },
+    "West Hollywood, CA": {
+        "city": "West Hollywood, CA",
+        "formatted_address": "West Hollywood, CA, USA",
+        "latitude": 34.0900091,
+        "longitude": -118.3617443
+    },
+    "West Palm Beach, FL": {
+        "city": "West Palm Beach, FL",
+        "formatted_address": "West Palm Beach, FL, USA",
+        "latitude": 26.7153424,
+        "longitude": -80.0533746
+    },
+    "West Yellowstone, MT": {
+        "city": "West Yellowstone, MT",
+        "formatted_address": "West Yellowstone, MT 59758, USA",
+        "latitude": 44.6621493,
+        "longitude": -111.1041092
+    },
+    "Whitefish, MT": {
+        "city": "Whitefish, MT",
+        "formatted_address": "Whitefish, MT 59937, USA",
+        "latitude": 48.4106373,
+        "longitude": -114.3352652
+    },
+    "Whittier, AK": {
+        "city": "Whittier, AK",
+        "formatted_address": "Whittier, AK 99693, USA",
+        "latitude": 60.77305560000001,
+        "longitude": -148.6838889
+    },
+    "Wolfeboro, NH": {
+        "city": "Wolfeboro, NH",
+        "formatted_address": "Wolfeboro, NH 03894, USA",
+        "latitude": 43.5852069,
+        "longitude": -71.20947989999999
+    },
+    "Wrangell-St. Elias National Park, AK": {
+        "city": "Wrangell-St. Elias National Park, AK",
+        "formatted_address": "Wrangell-St. Elias National Park & Preserve, Alaska 99566, USA",
+        "latitude": 61.7104448,
+        "longitude": -142.9856804
+    },
+    "Yarmouth, Nova Scotia": {
+        "city": "Yarmouth, Nova Scotia",
+        "formatted_address": "Yarmouth, NS, Canada",
+        "latitude": 43.8374576,
+        "longitude": -66.11738199999999
+    },
+    "Yellowstone National Park, WY": {
+        "city": "Yellowstone National Park, WY",
+        "formatted_address": "Yellowstone National Park, WY 82190, USA",
+        "latitude": 44.4279684,
+        "longitude": -110.5884542
+    }
+}
