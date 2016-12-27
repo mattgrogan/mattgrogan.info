@@ -3,7 +3,7 @@ date = "2016-07-10"
 title = "Timelapse of the sunset over the Triboro Bridge"
 draft = false
 slug = "timelapse-triboro"
-
+tags = ["rpi", "timelapse"]
 +++
 
 I am trying to capture a good variety of these magnificent views before the end of summer, when the sun moves back towards the southwest.
