@@ -1,0 +1,37 @@
+baseurl = "https://mattgrogan.info/"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Matthew Grogan"
+title = "Matthew Grogan"
+pygmentsuseclasses = true
+disqusshortname = "mattgrogan" # Comment out to disable Disqus.
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+author = "Matthew Grogan"
+#gravatar = "ec22b6f91b4d5885dfcb72a4fd7c8ac9" # do not use in the same time as Avatar
+# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+# cachebuster = false # FIXME: See issue #32.
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Don't panic"
+email = "mvgnyc@gmail.com"
+faviconfile = "img/leaf.ico"
+gatracker = "UA-62086825-1"
+github = "//github.com/mattgrogan"
+highlightjs = true
+# highlightjslanguages = ["go"] # additional languages not included in the "common" set
+initials = "mg" # Displayed on single post page; DEPRECATED in v0.3.0.
+lang = "en"
+linkedin = "//www.linkedin.com/in/matthew-grogan-63610959"
+twitter = "//twitter.com/matthewvgrogan"
+
+extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
