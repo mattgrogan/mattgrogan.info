@@ -520,7 +520,7 @@ section.main {
     margin: 0 30px;
   }
   section.header {
-    padding-top: 60px;
+    /* padding-top: 60px; */
     padding-bottom: 60px;
   }
   section.icons {
