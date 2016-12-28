@@ -1,9 +1,10 @@
 +++
 date = "2014-03-23"
-title = "#globalgraphs at Churchill's War Rooms"
+title = "Bar Charts in Churchill's Secret WWII Bunker"
 draft = false
-tags = ["globalgraphs"]
-slug = "churchill-war-room"
+projects = ["global-graphs"]
+categories = ["photos"]
+
 +++
 
 These are the graphs that won World War II!

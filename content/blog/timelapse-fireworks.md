@@ -2,7 +2,7 @@
 date = "2016-06-30"
 title = "Timelapse of the Triboro Bridge and Fireworks"
 draft = false
-tags = ["rpi", "timelapse"]
+projects = ["timelapse"]
 +++
 
 This is a timelapse of images taken every ten seconds from my balcony in Astoria.

@@ -2,7 +2,7 @@
 date = "2015-11-02"
 title = "MentalMath - an Android App Built with Kivy"
 draft = false
-tags = ["python", "math", "android", "kivy"]
+categories = ["programming"]
 +++
 
 ## Background

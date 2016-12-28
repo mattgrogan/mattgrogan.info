@@ -1,9 +1,9 @@
 +++
 date = "2015-02-12"
-title = "#globalgraphs Chocolate Charts in Nicaragua"
+title = "Chocolate Charts in Nicaragua"
 draft = false
-tags = ["globalgraphs"]
-slug = "nicaragua-choco"
+projects = ["global-graphs"]
+categories = ["photo"]
 +++
 
 Spotted these chocolate charts at the [Mansion de Chocolate](https://www.mansiondechocolate.com/) in Granada, Nicaragua.

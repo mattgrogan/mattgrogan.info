@@ -1,9 +1,9 @@
 +++
-title = "#globalgraphs Barchart Spotted in Transylvania"
+title = "Barchart Spotted in Transylvania"
 draft = false
 date = "2014-06-11"
 slug = "globalgraphs-transylvania"
-tags = ["globalgraphs"]
+projects = ["global-graphs"]
 +++
 
 Spotted this bar chart in Sighisoara, Romania.

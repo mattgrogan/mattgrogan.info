@@ -2,7 +2,7 @@
 date = "2015-08-20"
 title = "Estimating Contribution to Variance in R"
 draft = false
-tags = ["statistics", "r", "excel", "oracle"]
+categories = ["stats"]
 +++
 
 ## Background

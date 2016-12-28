@@ -3,6 +3,7 @@ draft = false
 date = "2016-12-24"
 title = "Solenoid Circuit"
 tags = ["solenoid", "circuit", "power", "mosfet"]
+categories = ["maker"]
 +++
 
 ## Solenoid

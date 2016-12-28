@@ -3,7 +3,6 @@ date = "2014-09-03"
 title = "Tom Hamilton of Aerosmith on Quitting Drugs"
 draft = false
 tags = ["aerosmith", "question"]
-
 +++
 
 I had the chance to ask Tom Hamilton, the bass guitarist for Aerosmith, about a question I had wondered about for many years. I couldn't have wished for a better response!

@@ -11,7 +11,7 @@ pygmentsuseclasses = true
 PygmentsCodeFences = true
 pygmentsstyle = "tango"
 disqusshortname = "mattgrogan" # Comment out to disable Disqus.
-pluralizelisttitles = false
+#pluralizelisttitles = false
 
 [permalinks]
 fixed = ":title/"
@@ -32,8 +32,13 @@ github = "//github.com/mattgrogan"
 #highlightjs = true
 #highlightjslanguages = ["r"] # additional languages not included in the "common" set
 initials = "mg" # Displayed on single post page; DEPRECATED in v0.3.0.
-lang = "en"
+#lang = "en"
 linkedin = "//www.linkedin.com/in/matthew-grogan-63610959"
 twitter = "//twitter.com/matthewvgrogan"
 
 extracssfiles = [ "/css/override.css", "/css/tango.css" ] # In your `static/css`, add/remove files as necessary.
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+project = "projects"

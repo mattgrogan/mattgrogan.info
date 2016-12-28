@@ -28,7 +28,7 @@ url = "about/index.html"
 
 # Hi, I'm Matthew Grogan.
 
-By day, I focus on helping the Gemological Institute of America benefit from technology and analytics. All opinions on this site are my own.
+By day, I focus on helping the Gemological Institute of America benefit from technology and analytics.
 
 At other times, I love hack on the Raspberry Pi and Arduino boards - plus all the sensors and gadgets that go with them! I put up this blog to share and track the progress I've made.
 
