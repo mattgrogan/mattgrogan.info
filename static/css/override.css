@@ -1,1 +1,48 @@
+header h1 {
+  font-size: 18px;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+  letter-spacing: -0.005rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  color: #333333;
+}
 
+section.header nav {
+  font-size: 14px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+}
+section.header nav ul {
+  list-style: none;
+  text-align: center;
+  display: -webkit-inline-flex;
+  display: -moz-inline-flex;
+  display: -ms-inline-flexbox;
+  display: -ms-inline-flex;
+  display: inline-flex;
+}
+section.header nav ul li a {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+section.header nav ul li a:first-child {
+  margin-left: 0;
+}
+section.header nav ul li a:last-child {
+  margin-right: 0;
+}
+section.header nav ul li a {
+  color: #555555;
+  font-weight: 500;
+  -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -ms-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+  -o-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
+}
+section.header nav ul li a:hover {
+  color: #111111;
+}
