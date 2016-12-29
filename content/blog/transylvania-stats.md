@@ -1,5 +1,5 @@
 +++
-title = "Barchart Spotted in Transylvania"
+title = "Bar chart spotted in Vlad Dracula's hometown in Transylvania"
 draft = false
 date = "2014-06-11"
 slug = "globalgraphs-transylvania"

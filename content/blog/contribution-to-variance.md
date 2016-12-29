@@ -1,6 +1,6 @@
 +++
 date = "2015-08-20"
-title = "Estimating Contribution to Variance in R"
+title = "Estimating contribution to variance in R"
 draft = false
 categories = ["stats"]
 +++

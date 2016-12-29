@@ -1,6 +1,6 @@
 +++
 date = "2015-02-12"
-title = "Chocolate Charts in Nicaragua"
+title = "Nicaraguan graphs on chocolate production and consumption"
 draft = false
 projects = ["global-graphs"]
 categories = ["photo"]

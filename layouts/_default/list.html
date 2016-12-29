@@ -6,12 +6,20 @@
       <div class="page-heading">{{.Title}}</div>
 
       <div class="markdown">
-          {{ .Content }}
+        {{ .Content }}
       </div>
+
+      <hr/>
+
+      <h2>POSTS</h2><br/>
+
 
       <ul>
         {{ range .Data.Pages.ByPublishDate }} {{ partial "li.html" . }} {{ end }}
       </ul>
+
+      <hr/>
+
     </div>
   </div>
 </section>

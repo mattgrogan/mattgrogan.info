@@ -1,7 +1,7 @@
 +++
 draft = false
 date = "2016-12-24"
-title = "Solenoid Circuit"
+title = "Controlling a 24v solenoid with a MOSFET"
 tags = ["solenoid", "circuit", "power", "mosfet"]
 categories = ["maker"]
 +++

@@ -51,7 +51,7 @@ I found the reel layout in [_Slot Machines: A Pictorial History of the First 100
 | 3 Liberty Bells       |    1   |    1   |    2   |            2 |      20      |                     40 |
 |                       |        |        |        |          264 |              |                    756 |
 
-With ten symbols per reel, there are 10 * 10 * 10 = 1,000 possible outcomes. This means that 26.4% of the spins will result in a payout and the machine will return 75.6% of the amount wagered to the player.
+With ten symbols per reel, there are 10 * 10 * 10 = 1,000 possible outcomes. Therefore 26.4% of the spins will result in a "win" and the machine will return 75.6% of the amount wagered to the player.
 
 ## Components
 

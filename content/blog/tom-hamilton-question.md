@@ -1,6 +1,6 @@
 +++
 date = "2014-09-03"
-title = "Tom Hamilton of Aerosmith on Quitting Drugs"
+title = "Aerosmith's Tom Hamilton answers my question about drugs and alcohol"
 draft = false
 tags = ["aerosmith", "question"]
 +++

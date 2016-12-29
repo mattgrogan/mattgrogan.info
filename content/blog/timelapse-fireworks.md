@@ -1,6 +1,6 @@
 +++
 date = "2016-06-30"
-title = "Timelapse of the Triboro Bridge and Fireworks"
+title = "Timelapse of the Triboro bridge and Astoria fireworks"
 draft = false
 projects = ["timelapse"]
 +++

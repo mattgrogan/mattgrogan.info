@@ -1,6 +1,6 @@
 +++
 date = "2015-11-02"
-title = "MentalMath - an Android App Built with Kivy"
+title = "MentalMath: my small Android app created with Kivy"
 draft = false
 categories = ["programming"]
 +++

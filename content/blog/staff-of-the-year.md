@@ -1,6 +1,6 @@
 +++
 date = "2013-12-13"
-title = "GIA Staff of the Year"
+title = "I was awarded Staff of the Year by GIA"
 draft = false
 tags = ["GIA"]
 +++
