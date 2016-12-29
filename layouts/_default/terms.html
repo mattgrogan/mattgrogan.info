@@ -4,18 +4,17 @@
   <div class="container">
     <div class="content">
 
-    <div class="page-heading">{{.Title}}</div>
+      <div class="page-heading">{{.Title}}</div>
 
       <div class="markdown">
-          {{ .Content }}
+        {{ .Content }}
       </div>
 
       <ul>
-          {{ $pageurl := .RelPermalink }}
-          {{ range $key, $project := .Site.Taxonomies.projects }}
-          <li><a href="{{$pageurl}}{{$key | urlize}}">{{$key}}</a></li>
-          {{ end }}      </ul>
+        {{ $pageurl := .RelPermalink }} {{ range $key, $project := .Site.Taxonomies.projects }}
+        <li><a href="{{$pageurl}}{{$key | urlize}}">{{$key}}</a></li>
+        {{ end }} </ul>
     </div>
   </div>
 </section>
-{{ partial "footer.html " . }}
+{{ partial "footer.html" . }}
