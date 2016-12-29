@@ -4,4 +4,4 @@ title = "Home Page"
 draft = false
 +++
 
-This is my home page
+Main page
