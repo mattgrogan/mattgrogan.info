@@ -7,8 +7,6 @@ categories = ["photos"]
 
 +++
 
-These statistics helped win World War II!
-
 Spotted in [Churchill's War Rooms](http://www.iwm.org.uk/visits/churchill-war-rooms) - his secret WW2 bunker.
 
 ![War Room Graphs](images/globalgraphs/churchill.jpg)

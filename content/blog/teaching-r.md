@@ -1,7 +1,7 @@
 +++
 title = "Teaching R with a focus on tidy, dplyr, and ggplot2"
 date = "2015-07-31"
-draft = true
+draft = false
 +++
 
 In order to build more familiarity and comfort with R across GIA, I started teaching a short (3 hour) Introduction to R course. I've found that the huge steps forward by Hadley and others render a lot of the older guides obsolete.

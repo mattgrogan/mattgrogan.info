@@ -7,7 +7,7 @@ projects = ["global-graphs"]
 categories = ["photos"]
 +++
 
-Spotted this falling, logarithmic bar chart in Yellowstone National Park.
+Spotted this logarithmic bar chart in Yellowstone National Park.
 
 > Bears can be dangerous, but they usually tolerate people
 

@@ -1,7 +1,7 @@
 +++
 date = "2016-12-01T12:51:41-05:00"
 title = "About Me"
-draft = true
+draft = false
 url = "about/index.html"
 
 +++
