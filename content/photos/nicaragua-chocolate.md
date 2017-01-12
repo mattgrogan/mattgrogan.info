@@ -8,4 +8,4 @@ categories = ["photo"]
 
 Spotted these chocolate charts at the [Mansion de Chocolate](https://www.mansiondechocolate.com/) in Granada, Nicaragua.
 
-![Chocolate Stats](images/globalgraphs/choco.jpg)
+![Chocolate Stats](/images/globalgraphs/choco.jpg)

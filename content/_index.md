@@ -4,4 +4,6 @@ title = "Home Page"
 draft = false
 +++
 
-This is the homepage and blog of Matthew Grogan, Director of Global Laboratory Technology at the Gemological Institute of America. For more about me, see [here](about)
+# Hi, I'm Matthew Grogan.
+
+By day, I focus on helping the Gemological Institute of America benefit from technology and analytics. At other times, I hack on the Raspberry Pi and Arduino boards. This site is to share and track the progress I've made.

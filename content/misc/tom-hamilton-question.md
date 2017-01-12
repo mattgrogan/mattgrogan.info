@@ -1,6 +1,6 @@
 +++
 date = "2014-09-03"
-title = "Aerosmith's Tom Hamilton answers my question about drugs and alcohol"
+title = "Aerosmith's Tom Hamilton answers my question"
 draft = false
 tags = ["aerosmith", "question"]
 +++

@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<section>
+  {{ .Content }}
+</section>
+
+<section>
+    {{ range .Data.Pages.ByPublishDate }} {{ partial "article.html" . }} {{ end }}
+</section>
+
+{{ partial "footer.html" . }}

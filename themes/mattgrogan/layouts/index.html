@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<section>
+  {{ .Content }}
+</section>
+
+<section class="links-section">
+{{ range $section, $taxonomy := .Site.Sections }}
+
+    <h2 id="{{ $section }}">{{ $section }}</h2>
+    <ul>
+      {{ range $taxonomy.Pages }}
+      <li><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+    {{ end }}
+    </ul>
+
+{{ end }}
+</section>
+
+{{ partial "footer.html" . }}

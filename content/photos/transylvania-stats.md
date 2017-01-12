@@ -8,4 +8,4 @@ projects = ["global-graphs"]
 
 Spotted this bar chart in Sighisoara, Romania.
 
-![Transylvania](images/globalgraphs/transylvania.jpg)
+![Transylvania](/images/globalgraphs/transylvania.jpg)

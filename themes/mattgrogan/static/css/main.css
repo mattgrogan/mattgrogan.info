@@ -1,0 +1,67 @@
+body {
+  width: 100%;
+  min-height: 100%;
+  font-weight: 400;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+  color: #111111;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility !important;
+  font-size: 14px;
+}
+
+a,
+a:visited,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: #111111
+}
+
+a:hover {
+  color: #666666;
+}
+
+header h1 a{
+  color: #222222;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+  letter-spacing: -0.005rem;
+  font-weight: 700;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+
+
+section h1 {
+  color: #555555;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+  letter-spacing: -0.005rem;
+  font-weight: 700;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+section h2 {
+  color: #222222;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
+  letter-spacing: -0.005rem;
+  font-weight: 700;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+section ul {
+  list-style: none;
+  text-align: left;
+}

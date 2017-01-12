@@ -1,9 +1,8 @@
 +++
-date = "2016-12-01T12:51:41-05:00"
-title = "About Me"
+date = "2013-12-13"
+title = "My travel map"
 draft = false
-url = "about/index.html"
-
+tags = ["GIA"]
 +++
 
 <style>
@@ -22,17 +21,6 @@ url = "about/index.html"
   }
 
 </style>
-
-![Matt](iguana_matt.jpg)
-
-
-# Hi, I'm Matthew Grogan.
-
-By day, I focus on helping the Gemological Institute of America benefit from technology and analytics.
-
-At other times, I love hack on the Raspberry Pi and Arduino boards - plus all the sensors and gadgets that go with them! I put up this blog to share and track the progress I've made.
-
-And I love to travel =)
 
 <div id="map_container" class="panel-body">
   <div id="map"></div>
@@ -59,7 +47,7 @@ And I love to travel =)
 
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-    $.getJSON("../cities.json", function(data) {
+    $.getJSON("/cities.json", function(data) {
       $.each(data, function(key, val) {
 
         // create the infowindow

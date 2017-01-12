@@ -11,4 +11,4 @@ Spotted this logarithmic bar chart in Yellowstone National Park.
 
 > Bears can be dangerous, but they usually tolerate people
 
-![Bear Chart](images/globalgraphs/bear.jpg)
+![Bear Chart](/images/globalgraphs/bear.jpg)
