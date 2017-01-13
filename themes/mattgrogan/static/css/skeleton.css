@@ -236,11 +236,13 @@ img.profile {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #404040;
+  color: #e31a1c; 
   text-decoration: none;
 }
 a:hover {
-  color: #ca0020; }
+  color: #a50f15;
+
+}
 
 
 /* Buttons
