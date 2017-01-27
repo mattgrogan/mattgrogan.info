@@ -6,11 +6,25 @@
   <div class="post-meta">
     <div class="post-meta-item">
       <i class="fa fa-calendar"></i>
-      <time datetime="{{ .Date.Format .Site.Params.dateformfull }}">{{ .Date.Format .Site.Params.dateform }}</time>
+      Updated on <time datetime="{{ .Date.Format .Site.Params.dateformfull }}">{{ .Date.Format .Site.Params.dateform }}</time>
       &middot; {{ .ReadingTime }} {{ .Site.Data.Strings.metaReadinMinutes }}
       &middot; {{ .WordCount }} {{ .Site.Data.Strings.words }}
-
     </div>
+
+    {{ if isset .Params "tags" }}
+        {{ $tagsLen := len .Params.tags }}
+        {{ if gt $tagsLen 0 }}
+          <div class="post-meta-item">
+            <i class="fa fa-tags"></i>
+            {{ range $k, $v := .Params.tags }}
+            <!--<a href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}">{{ . }}</a> -->
+            {{ . }}
+            {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+    {{ end }}
+
 
   </div>
 
@@ -19,5 +33,10 @@
 
   {{ .Content }}
 </section>
+
+<br>
+<div class="disqus">
+  {{ template "_internal/disqus.html" . }}
+</div>
 
 {{ partial "footer.html" . }}

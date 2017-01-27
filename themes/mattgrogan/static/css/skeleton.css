@@ -243,6 +243,7 @@ footer a:hover {
   color: #1b95e0;
 }
 
+
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
@@ -508,3 +509,19 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+/* Overrides
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.post-meta {
+    margin-bottom: 1rem;
+    display: table;
+    font-size: 0.8rem;
+    color: rgba(0, 0, 0, 0.6);
+    text-transform: uppercase;
+}
+
+.post-meta-item {
+    margin-right: 10px;
+    float: left;
+}
