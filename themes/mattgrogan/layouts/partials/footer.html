@@ -1,3 +1,54 @@
+
+<footer>
+  {{ if .Site.Params.github }}
+    <a href="{{ .Site.Params.github }}" target="_blank">
+      <i class="fa fa-github"></i>
+    </a>
+  {{ end }}
+
+  {{ if .Site.Params.twitter }}
+    <a href="{{ .Site.Params.twitter }}" target="_blank">
+      <i class="fa fa-twitter"></i>
+    </a>
+  {{ end }}
+
+  {{ if .Site.Params.linkedin }}
+    <a href="{{ .Site.Params.linkedin }}" target="_blank">
+      <i class="fa fa-linkedin"></i>
+    </a>
+  {{ end }}
+
+  {{ if .Site.Params.facebook }}
+  <a href="{{ .Site.Params.facebook }}" target="_blank">
+    <i class="fa fa-facebook-official"></i>
+  </a>
+  {{ end }}
+
+  {{ if .Site.Params.soundcloud }}
+   <a href="{{ .Site.Params.soundcloud }}" target="_blank">
+     <i class="fa fa-soundcloud"></i>
+   </a>
+  {{ end }}
+
+  {{ if .Site.Params.email }}
+  <a href="mailto:{{ .Site.Params.email }}">
+    <i class="fa fa-envelope-o"></i>
+  </a>
+  {{ end }}
+
+  {{ if .Site.RSSLink }}
+  <a href="{{ .Site.RSSLink }}">
+    <i class="fa fa-rss"></i>
+  </a>
+  {{ end }}
+
+  <p>
+    &copy; 2016 Matthew Grogan. This site, its contents, and the opinions expressed are strictly my own.
+  </p>
+
+</footer>
+
+
 <!-- Google Analytics -->
 {{ if .Site.Params.gatracker }}
 <script>
