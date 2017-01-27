@@ -11,7 +11,7 @@ Oracle's [Crystal Ball](http://www.oracle.com/us/products/applications/crystalba
 
 One of Crystal Ball's diagnostic tools is called the __Contribution to Variance__ chart, shown below. Today's task is to recreate this chart in R.
 
-![Oracle Crystal Ball Sensitivity](images/crystal_ball_sensitivity.png)
+![Oracle Crystal Ball Sensitivity](/images/crystal_ball_sensitivity.png)
 
 ## The Contribution to Variance Function
 
@@ -92,7 +92,7 @@ ggplot(var_data, aes(x = variable, y = pct, fill = variable)) +
 
 ```
 
-![Contribution to Variance](images/contribution_to_variance.png)
+![Contribution to Variance](/images/contribution_to_variance.png)
 
 ## A Real(ish) Dataset
 
@@ -111,7 +111,7 @@ ggplot(mtcar_var, aes(x = variable, y = pct, fill = variable)) +
 
 ```
 
-![mtcars Contribution to Variance](images/mtcars_contribution_to_variance.png)
+![mtcars Contribution to Variance](/images/mtcars_contribution_to_variance.png)
 
 From this chart it is clear that the weight (`wt`), number of cylinders (`cyl`), and displacement (`disp`) are the largest negative factors affecting miles per gallon (`mpg`).
 
