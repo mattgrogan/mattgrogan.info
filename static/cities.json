@@ -53,6 +53,12 @@
         "latitude": 18.4596051,
         "longitude": -66.74417249999999
     },
+    "Aruba": {
+        "city": "Aruba",
+        "formatted_address": "Aruba",
+        "latitude": 12.52111,
+        "longitude": -69.968338
+    },
     "Astoria, NY": {
         "city": "Astoria, NY",
         "formatted_address": "Astoria, Queens, NY, USA",
