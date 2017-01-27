@@ -41,6 +41,11 @@
 
     <nav>
       <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+      </ul>
+      <ul>
         {{ range $section, $taxonomy := .Site.Sections }}
         <li>
           <a href="/#{{ $section}}">{{ $section }}</a>
