@@ -10,8 +10,8 @@
     <h2 id="{{ $section }}">{{ $section }}</h2>
     <ul>
       {{ range $taxonomy.Pages }}
-      <li><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-    {{ end }}
+        {{ partial "item.html" . }}
+      {{ end }}
     </ul>
 
 {{ end }}
