@@ -2,14 +2,12 @@
 date = "2014-09-03"
 title = "Aerosmith's Tom Hamilton: I was never addicted to drugs, I just found them so damn fun!"
 draft = false
-tags = ["aerosmith", "question"]
+tags = ["video"]
 +++
 
-I had the chance to ask Tom Hamilton, the bass guitarist for Aerosmith, about a question I had wondered about for many years. I couldn't have wished for a better response!
+I had the chance to ask Tom Hamilton, the bass guitarist for Aerosmith, a question I had wondered about for many years. I couldn't have wished for a better response!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIq6HJM_2QQ" frameborder="0" allowfullscreen></iframe>
-
-#### My question:
+### Question
 
 > There's a book, a history of Aerosmith, called "Walk this Way". The author of the book makes an argument about you that says that you were the band member that was most difficult to convince to stop doing drugs.
 
@@ -20,7 +18,7 @@ band members did.
 
 > I was wondering if that's true and if you would elaborate on how you made that decision at that time of your life.
 
-#### Tom's answer:
+### Answer
 
 > Well you know I was never addicted to drugs, I just found them so damn fun!
 
@@ -44,3 +42,7 @@ band members did.
 the tours started coming back.
 
 > I think it's part of why we're still around is that we went through that.
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIq6HJM_2QQ" frameborder="0" allowfullscreen></iframe>
