@@ -15,7 +15,7 @@ I've had this solenoid sitting around for awhile and finally taken the time to s
 
 ## Circuit Diagram
 
-![Solenoid Circuit](images/solenoid_fritz.png)
+![Solenoid Circuit](/images/solenoid_fritz.png)
 
 ## Parts List
 

@@ -5,6 +5,6 @@ draft = false
 tags = ["Work"]
 +++
 
-Today I received GIA's prestigious Staff of the Year award! Many thanks to everyone at the Institute!
+Today GIA awarded me the prestigious Staff of the Year award! Many thanks to everyone at the Institute!
 
 ![Staff of the Year Plaque](/images/staff_of_the_year.jpg)

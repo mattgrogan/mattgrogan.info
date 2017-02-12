@@ -196,7 +196,6 @@ header h1 {
   font-size: 1.8rem;
   font-weight: 400;
   color: #252525;
-
 }
 
 nav {
@@ -313,8 +312,8 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #005999;
-  text-decoration: underline;
+  color: #1b95e0;
+  text-decoration: none;
 }
 
 
