@@ -1,8 +1,8 @@
 +++
-date = "2013-12-13"
+date = "2017-01-06"
 title = "My travel map"
 draft = false
-tags = ["GIA"]
+tags = ["Travel", "google-maps"]
 +++
 
 <style>

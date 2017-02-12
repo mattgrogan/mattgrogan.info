@@ -4,6 +4,7 @@ draft = false
 date = "2014-06-11"
 slug = "globalgraphs-transylvania"
 projects = ["global-graphs"]
+tags = ["global-graphs", "photo"]
 +++
 
 Spotted this bar chart in Sighisoara, Romania.

@@ -182,6 +182,7 @@ blockquote {
 
 header {
   margin-top: 3rem;
+  border-bottom: 1px solid #eee;
 }
 
 header h1 {

@@ -4,7 +4,7 @@ title = "Bar graphs spied in Churchill's secret WWII bunker"
 draft = false
 projects = ["global-graphs"]
 categories = ["photos"]
-
+tags = ["global-graphs", "photo"]
 +++
 
 Spotted in [Churchill's War Rooms](http://www.iwm.org.uk/visits/churchill-war-rooms) - his secret WW2 bunker.

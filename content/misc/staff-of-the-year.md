@@ -2,7 +2,7 @@
 date = "2013-12-13"
 title = "Matthew Grogan named GIA's Staff of the Year"
 draft = false
-tags = ["GIA"]
+tags = ["Work"]
 +++
 
 Today I received GIA's prestigious Staff of the Year award! Many thanks to everyone at the Institute!

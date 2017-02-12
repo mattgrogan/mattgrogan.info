@@ -4,6 +4,7 @@ title = "Nicaraguan graphs on chocolate production and consumption"
 draft = false
 projects = ["global-graphs"]
 categories = ["photo"]
+tags = ["global-graphs", "photo"]
 +++
 
 Spotted these chocolate charts at the [Mansion de Chocolate](https://www.mansiondechocolate.com/) in Granada, Nicaragua.

@@ -5,6 +5,7 @@ draft = false
 slug = "bear-chart"
 projects = ["global-graphs"]
 categories = ["photos"]
+tags = ["global-graphs", "photo"]
 +++
 
 Spotted this logarithmic bar chart in Yellowstone National Park.

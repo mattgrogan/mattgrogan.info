@@ -5,16 +5,11 @@
 </section>
 
 <section class="links-section">
-{{ range $section, $taxonomy := .Site.Sections }}
-
-    <h2 id="{{ $section }}">{{ $section }}</h2>
-    <ul>
-      {{ range $taxonomy.Pages }}
-        {{ partial "item.html" . }}
-      {{ end }}
-    </ul>
-
-{{ end }}
+  <ul>
+    {{ range .Data.Pages }}
+      {{ partial "item.html" . }}
+    {{ end }}
+  </ul>
 </section>
 
 {{ partial "footer.html" . }}
