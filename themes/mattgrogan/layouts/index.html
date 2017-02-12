@@ -1,15 +1,19 @@
 {{ partial "header.html" . }}
 
 <section>
+  <div class="container">
   {{ .Content }}
+  </div>
 </section>
 
 <section class="links-section">
-  <ul>
-    {{ range .Data.Pages }}
-      {{ partial "item.html" . }}
-    {{ end }}
-  </ul>
+  <div class="container">
+    <ul>
+      {{ range .Data.Pages }}
+        {{ partial "item.html" . }}
+      {{ end }}
+    </ul>
+  </div>
 </section>
 
 {{ partial "footer.html" . }}

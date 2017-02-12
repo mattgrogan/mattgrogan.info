@@ -26,6 +26,7 @@
 */
 
 
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -125,14 +126,18 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222;
+  margin: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+  min-height: 100%;
+}
 
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 2rem;
   font-weight: 300; }
 h1 { font-size: 2.0rem; line-height: 1.2;  letter-spacing: 0rem;}
 /*h2 { font-size: 2.0rem; line-height: 1.25; letter-spacing: 0rem;} */
@@ -142,6 +147,7 @@ h5 { font-size: 1.1rem; line-height: 1.5;  letter-spacing: 0rem;}
 h6 { font-size: 1.0rem; line-height: 1.6;  letter-spacing: 0rem;}
 
 h2 {
+  text-transform: uppercase;
   font-weight: bold;
   line-height: normal;
   margin-bottom: 0.2rem;
@@ -232,9 +238,6 @@ nav ul li a {
 section {
   padding: 1.5rem 0;
 }
-section.links-section {
-
-}
 
 section.links-section h2 {
   text-transform: uppercase;
@@ -261,14 +264,32 @@ img.profile {
   }
 }
 
+footer {
+    background: #242729;
+    min-width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+footer a i {
+  font-size: 1.6rem;
+  padding-right: 1rem;
+}
+
 footer a {
-  font-size: 3.0rem;
-  color: #222222;
+  font-size: 1.4rem;
+  color: #99d4ff;
   padding-left: 1.0rem;
+  display: block;
 }
 
 footer a:hover {
   color: #1b95e0;
+}
+
+footer p {
+  font-size: 75%;
+  color: #9fa6ad;
 }
 
 .label {
@@ -288,12 +309,12 @@ footer a:hover {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #e31a1c;
+  color: #005999;
   text-decoration: none;
 }
 a:hover {
-  color: #a50f15;
-
+  color: #005999;
+  text-decoration: underline;
 }
 
 
@@ -518,12 +539,16 @@ hr {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Self Clearing Goodness */
+
+
 .container:after,
 .row:after,
 .u-cf {
   content: "";
-  display: table;
-  clear: both; }
+  display: block;
+  clear: both;
+}
+
 
 
 /* Media Queries
