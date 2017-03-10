@@ -590,3 +590,15 @@ there.
     margin-right: 10px;
     float: left;
 }
+
+.triplecol {
+    display: block;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+.triplecol-item {
+  display: block;
+  float: none;
+}
