@@ -77,6 +77,12 @@
         "latitude": 34.9922836,
         "longitude": 34.0140113
     },
+    "Bangalore, India": {
+        "city": "Bangalore, India",
+        "formatted_address": "Bengaluru, Karnataka, India",
+        "latitude": 12.9715987,
+        "longitude": 77.5945627
+    },
     "Bangkok, Thailand": {
         "city": "Bangkok, Thailand",
         "formatted_address": "Bangkok, Thailand",
@@ -526,6 +532,12 @@
         "formatted_address": "Mumbai, Maharashtra, India",
         "latitude": 19.0759837,
         "longitude": 72.8776559
+    },
+    "Mysore India": {
+        "city": "Mysore India",
+        "formatted_address": "Mysuru, Karnataka 570001, India",
+        "latitude": 12.2958104,
+        "longitude": 76.6393805
     },
     "New Orleans, LA": {
         "city": "New Orleans, LA",
