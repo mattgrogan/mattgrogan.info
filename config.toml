@@ -1,6 +1,7 @@
 baseurl = "https://mattgrogan.info/"
 builddrafts = false
-canonifyurls = true
+canonifyurls = false
+relativeurls = true
 contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
@@ -26,7 +27,7 @@ dateform = "2006-01-02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Don't panic"
 email = "mvgnyc@gmail.com"
-faviconfile = "img/leaf.ico"
+#faviconfile = "img/leaf.ico"
 gatracker = "UA-62086825-1"
 github = "https://github.com/mattgrogan"
 #highlightjs = true
