@@ -12,6 +12,7 @@ pygmentsuseclasses = true
 PygmentsCodeFences = true
 pygmentsstyle = "tango"
 disqusshortname = "mattgrogan" # Comment out to disable Disqus.
+theme = "mattgrogan"
 #pluralizelisttitles = false
 
 [permalinks]
