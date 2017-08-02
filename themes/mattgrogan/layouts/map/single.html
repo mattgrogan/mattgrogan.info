@@ -48,7 +48,6 @@
 
       map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-      var i = 0;
       var marker = [];
       var infowindow = [];
 
@@ -63,7 +62,7 @@
           });
 
           // create the marker
-          marker[i] = new google.maps.Marker({
+          marker[{{ .formatted_address }}] = new google.maps.Marker({
             map: map,
             position: {
               lat: {{ .latitude }}, //val['latitude'],
@@ -82,17 +81,16 @@
           });
 
           // tie the infowindow to the marker
-          marker[i].addListener('mouseover', function() {
+          marker[{{ .formatted_address }}].addListener('mouseover', function() {
             infowindow[{{ .formatted_address }}].open(map, marker[i]);
           });
-          marker[i].addListener('mouseout', function() {
+          marker[{{ .formatted_address }}].addListener('mouseout', function() {
             infowindow[{{ .formatted_address }}].close(map, marker[i]);
           });
         //})
 
       //})
 
-    i++;
     {{ end }}
 
     }
