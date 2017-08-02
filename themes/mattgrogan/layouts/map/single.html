@@ -48,18 +48,22 @@
 
       map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
+      var i = 0;
+      var marker = [];
+      var infowindow = [];
+
       //$.getJSON("/cities.json", function(data) {
         //$.each(data, function(key, val) {
       {{ range $.Site.Data.cities }}
 
 
           // create the infowindow
-          var infowindow = new google.maps.InfoWindow({
+          infowindow[{{ .formatted_address }}] = new google.maps.InfoWindow({
             content: {{ .formatted_address }} //val['formatted_address']
-          })
+          });
 
           // create the marker
-          var marker = new google.maps.Marker({
+          marker[i] = new google.maps.Marker({
             map: map,
             position: {
               lat: {{ .latitude }}, //val['latitude'],
@@ -78,15 +82,17 @@
           });
 
           // tie the infowindow to the marker
-          marker.addListener('mouseover', function() {
-            infowindow.open(map, marker);
+          marker[i].addListener('mouseover', function() {
+            infowindow[{{ .formatted_address }}].open(map, marker[i]);
           });
-          marker.addListener('mouseout', function() {
-            infowindow.close(map, marker);
+          marker[i].addListener('mouseout', function() {
+            infowindow[{{ .formatted_address }}].close(map, marker[i]);
           });
         //})
 
       //})
+
+    i++;
     {{ end }}
 
     }
