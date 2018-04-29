@@ -32,8 +32,6 @@ From Wikipedia, the free encyclopedia
 
 ## Circuit Diagram
 
-I did the circuit board design in [Fritzing](http://fritzing.org/home/)
-
 ![PCB](/images/pomodoro_fritzing.png)
 
 ## Code
