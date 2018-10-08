@@ -185,6 +185,12 @@
         "latitude": 44.3888609,
         "longitude": -68.7989582
     },
+    "Centerport, NY": {
+        "city": "Centerport, NY",
+        "formatted_address": "Centerport, NY 11721, USA",
+        "latitude": 40.892471,
+        "longitude": -73.376022      
+    },
     "Chesterton, IN": {
         "city": "Chesterton, IN",
         "formatted_address": "Chesterton, IN 46304, USA",
@@ -562,6 +568,12 @@
         "formatted_address": "Milford, NH 03055, USA",
         "latitude": 42.8353619,
         "longitude": -71.6489836
+    },
+    "Montauk, NY": {
+        "city": "Montauk, NY",
+        "formatted_address": "Montauk, NY 11954, USA",
+        "latitude": 41.031319,
+        "longitude": -71.950981       
     },
     "Montreal, Canada": {
         "city": "Montreal, Canada",
